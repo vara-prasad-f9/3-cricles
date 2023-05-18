@@ -1,0 +1,18 @@
+
+.header-top .material-symbols-outlined
+{display: inline-block; vertical-align: top;}
+.header-top{ border-bottom: 1px solid black;padding:10px 0 10px;}
+.header-top .mat a span{color:blue;}
+.material-symbols-outlined{padding-right: 20px ;color:#000; }
+.mat{padding:0 20px;}
+.mat a {color:#000;}
+.navigation li{list-style: none;display: inline-block;padding-left: 2px;padding:5px}
+.header-bottom .navigation{display:inline-block; margin:20px 100px; vertical-align: top;}
+.header-bottom .material-symbols-outlined{display:inline-block;margin:25px 20px 20px 20px; vertical-align: top;}
+.header-bottom .btn{display:inline-block;margin:20px 20px; vertical-align: top;}
+.header-bottom{border-bottom: 1px solid black;}
+.header-bottom .logo img{width:150px;padding:20px 10px 20px 30px;}
+.slider img{width:100%}
+.welcome-block{padding:100px 0 }
+.text p{color:green;}
+.welcome-bottom .card img {width:100px; margin: 0 auto;display:block;}
