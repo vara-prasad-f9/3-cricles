@@ -16,3 +16,23 @@
 .welcome-block{padding:100px 0 }
 .text p{color:green;}
 .welcome-bottom .card img {width:100px; margin: 0 auto;display:block;}
+.welcome-bottom .one .card {background-color: rgb(0, 110, 255); }
+.welcome-bottom .one .card .material-symbols-outlined{  background-color:white;}
+.welcome-bottom a {float:right ;}
+.welcome-bottom{padding-bottom: 100px;}
+.pic img{width:100%;background-color: rgba(0, 110, 255, 0.959);}
+.helping-world {background-image: url("../images/SL.png");padding:15%;background-color:rgb(0, 132, 255);}
+.helping-world .inner-block{border:grey 5px solid;padding:10px 20px 10px 20px; color:white}
+.inner-block span{display:inline-block}
+.helping-right .icon{border:solid 1px white ;border-radius:100px;width:25px;height: 25px;float:right;}
+.clear{clear:both;}
+.text-block{text-align: center;margin:50px 0px 50px 0px;}
+.card-block .two .card {background-color: rgb(0, 110, 255);color:white;margin:none; }
+.card-block .card img{width:100PX;margin: 0 auto}
+.card-block .card{margin-bottom:20px}
+.card-block .two .card .material-symbols-outlined{  background-color:white;}
+.card-block a {float:right ;}
+.card-block{margin-bottom: 50px;}
+.exe-block .para p{color:green}
+.photo {padding:20px 50px}
+
