@@ -1,11 +1,9 @@
 
-.header-top .material-symbols-outlined
-{display: inline-block; vertical-align: top;}
-.header-top{ border-bottom: 1px solid black;padding:10px 0 10px;}
-.header-top .mat a span{color:blue;}
-.material-symbols-outlined{padding-right: 20px ;color:#000; }
-.mat{padding:0 20px;}
-.mat a {color:#000;}
+.header-top { padding:10px 15px; border-bottom: solid 1px #B1B1B1;}
+.top-links a{display:inline-block; vertical-align: top; margin-right: 25px; color:#616161; text-decoration: none;}
+.top-links a  .material-symbols-outlined{display:inline-block; vertical-align: top; margin-right: 10px;}
+.social-icons a{font-size: 18px; display:inline-block; margin-right: 15px;}
+.social-icons a i{color: #AEAEAE;}
 .navigation li{list-style: none;display: inline-block;padding-left: 2px;padding:5px}
 .header-bottom .navigation{display:inline-block; margin:20px 100px; vertical-align: top;}
 .header-bottom .material-symbols-outlined{display:inline-block;margin:25px 20px 20px 20px; vertical-align: top;}
@@ -16,7 +14,7 @@
 .welcome-block{padding:100px 0 }
 .text p{color:green;}
 .welcome-bottom .card img {width:100px; margin: 0 auto;display:block;}
-.welcome-bottom .one .card {background-color: rgb(0, 110, 255); }
+.welcome-bottom .one .card {background-color:#1468B0 }
 .welcome-bottom .one .card .material-symbols-outlined{  background-color:white;}
 .welcome-bottom a {float:right ;}
 .welcome-bottom{padding-bottom: 100px;}
@@ -34,5 +32,27 @@
 .card-block a {float:right ;}
 .card-block{margin-bottom: 50px;}
 .exe-block .para p{color:green}
-.photo {padding:20px 50px}
-
+.photo img{padding:20px 0px;margin:0 30px}
+.dot-block{background-image: url("../images/choose-dot.png.png");padding:15%;background-color:rgb(26, 102, 202);}
+.dot-block{text-align: center;color:white;margin:50px 0px;}
+.dot-block .container-text-center{margin-top: 100px;}
+.text-center .jing{ background-image: url("../images/jing.png");height:300px;}
+.text-center .king{ background-image: url("../images/king.png");height:300px;}
+.text-center .ing{ background-image: url("../images/ing.png");height:300px;}
+.gallery h5{color:green;text-align: center;}
+.gallery h2{color:darkblue;text-align: center;}
+.gallery{margin:80px 300px}
+.gallery .ing .material-symbols-outlined{border:solid 1px white ;width:25px;height: 25px;}
+.gallery .block {position:relative}
+.gallery .ing .material-symbols-outlined{position:absolute;right:15px;bottom:3px;background-color: white;}
+.album {background-image: url("../images/ming.png"); background-repeat: no-repeat; background-size: cover;padding: 15%;background-color:rgb(26, 123, 202);}
+.slash{text-align: center;color:white;}
+.Free-Consultations{margin:100px}
+.Free-Consultations .free input {margin:10px;}
+.con ul li{list-style: none;padding-bottom:20px;text-align: left;}
+.con h5{color:green;text-align: left;}
+.con h2{color:#002249;text-align: left;padding-bottom: 30px;}
+.con h6{color:#1468B0;text-align: left;}
+.con p{color:#616161;text-align: left;}
+.project h2{color:#1468B0;margin-right: 15px;text-align:left;padding:0 15px;}
+.project h5{color: #232323;text-align:left;}
